@@ -7,3 +7,4 @@ j'ai créer le repo walid.io dans mon repo test pour voir si c facile de le dele
 
 je peux créer le même repo dans 2 endroit différents, test comfirmé.
 
+Je peux clone un repo qui existe deja dans un autre repo repo. ensuite delete le repo (repo dans repo) et le recopier qqpart d'autre sans probleme au repo inital ou aux autres utilisateurs.
